@@ -2,10 +2,7 @@ optimise = "size"
 production = True
 lto = "auto"
 disable_3d = True
-openfl3 = False
-openxr = False
 tools = False
-use_volk = False
 
 builtin_bullet = False
 builtin_certs = False
